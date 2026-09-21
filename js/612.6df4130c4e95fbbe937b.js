@@ -1,0 +1,1 @@
+(self.webpackChunkopenfront_client=self.webpackChunkopenfront_client||[]).push([[612],{612:e=>{e.exports=""}}]);
