@@ -17,7 +17,7 @@ export default async (env, argv) => {
       main: "./src/client/Main.ts",
     },
     output: {
-      publicPath: "/",
+      publicPath: "./",
       filename: "js/[name].[contenthash].js", // Added content hash
       path: path.resolve(__dirname, "static"),
       clean: isProduction,
